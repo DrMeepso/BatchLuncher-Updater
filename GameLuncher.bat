@@ -5,7 +5,7 @@
 :: Whats The Name Of The Game?
 set gamename=<GameName>
 :: EXE file WITH .exe
-set gameexe=M<EXEName>.exe
+set gameexe=<EXEName>.exe
 :: URL of the website that hosts GameVer.txt & .zip
 set url=<Website>/<Page>
 :: Zip file name WITHOUT .zip
