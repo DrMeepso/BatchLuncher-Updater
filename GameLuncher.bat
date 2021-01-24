@@ -3,13 +3,13 @@
 :: This is the config for the luncher
 :: =========================================
 :: Whats The Name Of The Game?
-set gamename=Milkman Karlson
+set gamename=<GameName>
 :: EXE file WITH .exe
-set gameexe=MilkmanKarlson.exe
+set gameexe=M<EXEName>.exe
 :: URL of the website that hosts GameVer.txt & .zip
-set url=https://readsio.com/GameLuncher
+set url=<Website>/<Page>
 :: Zip file name WITHOUT .zip
-set zipname=Game
+set zipname=<Zipname>
 :: =========================================
 
 :: Do not change any of this code
