@@ -23,4 +23,4 @@
 #### set zipname=MilkmanKarlson
 #### :: =========================================
 -----------------------------------------
-> ###### if you use this please give credit thanks!
+> ###### -Meepso
